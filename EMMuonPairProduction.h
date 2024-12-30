@@ -1,4 +1,3 @@
-#include <crpropa/Module.h>
 #include "crpropa/Module.h"
 #include "crpropa/PhotonBackground.h"
 
